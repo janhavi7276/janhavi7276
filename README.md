@@ -2,7 +2,12 @@ Hi there, I am Janhavi Sonawane!!
 
 💫 About Me:
 🔭 Exploring Frontend Development & AI/ML, passionate about building impactful and user-friendly applications
+
+
+
 🌱 Currently focused on Web Development and mastering Data Structures & Algorithms in C++
+
+
 🎓 Pursuing Computer Engineering (CSE’27)
 🚀 Co-Lead @ MLSC KBTCOE
 🌐 Core Member @ GDG Nashik
