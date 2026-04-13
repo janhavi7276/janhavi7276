@@ -1,6 +1,15 @@
 Hi there, I am Janhavi Sonawane!!
-# 💫 About Me:
-🔭Exploring the depths of web development and passionate about diving into various domains.<br>🌱Currently focused on web development and mastering Data Structures and Algorithms in C++.<br>🌱Pursuing Computer Engineering<br>👯Open to collaborating on projects in software development, AI, cloud computing, and more. <br>👯Actively enhancing my skills through projects and hackathons.<br>📫How to reach me: janhavisonawane2005@gmail.com
+💫 About Me:
+
+🔭 Exploring the world of Frontend Development & AI/ML, with a passion for building impactful and user-friendly applications
+🌱 Currently focused on Web Development and mastering Data Structures & Algorithms in C++
+🎓 Pursuing Computer Engineering (CSE’27)
+🚀 Co-Lead @ MLSC KBTCOE | Core Member @ GDG Nashik
+💡 Love working on real-world projects like AI chatbots and full-stack web apps
+🤝 Open to collaborating on projects in Software Development, AI, Cloud Computing, and Web Technologies
+⚡ Actively enhancing my skills through projects, hackathons (SIH, Super Mind Hackathon), and community work
+🎨 Interested in UI/UX Design and creating engaging digital experiences
+📫 Reach me at: janhavisonawane2005@gmail.com
 
 
 ## 🌐 Socials:
